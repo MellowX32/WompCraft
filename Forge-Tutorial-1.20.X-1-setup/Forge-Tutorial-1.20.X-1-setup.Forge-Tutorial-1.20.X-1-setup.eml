@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../../out/test/Forge-Tutorial-1.20.X-1-setup.Forge-Tutorial-1.20.X-1-setup"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../Forge-Tutorial-1.20.X-1-setup">
+		<excludeFolder url="file://$MODULE_DIR$/../../Forge-Tutorial-1.20.X-1-setup/.gradle"/>
+		<excludeFolder url="file://$MODULE_DIR$/../../Forge-Tutorial-1.20.X-1-setup/build"/>
+	</contentEntry>
+</component>
